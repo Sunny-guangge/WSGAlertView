@@ -2,7 +2,7 @@
 //  WSGAlertView.h
 //  BHAlertView
 //
-//  Created by 王帅广 on 16/6/15.
+//  Created by sunny on 16/6/15.
 //  Copyright © 2016年 sunny. All rights reserved.
 //
 
